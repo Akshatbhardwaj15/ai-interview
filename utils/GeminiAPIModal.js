@@ -21,7 +21,5 @@ const {
   
   export const chatSession = model.startChat({
       generationConfig,
-      history: [
-      ],
     });
   
